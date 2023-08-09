@@ -4,7 +4,7 @@
 Hi,
 
 This is a simple Angular POC created by Abhishek Choubey. In this POC I started building Shopping website <br/>
-This is 1st build push for the Shopping website, for building this portal I am using Angular. <br/>
+This is 2nd build push for the Shopping website, for building this portal I am using Angular. <br/>
 
 <b>Highlights of 2nd Push</b> <br/>
 From here we started developing Folder/Component Structure for our project <br/>
